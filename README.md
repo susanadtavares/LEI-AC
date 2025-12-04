@@ -24,3 +24,17 @@ code; Alternatives in representing logical values;. transshipment, increase accu
 **Learning the main concepts about embedded systems and their architecture;** 
 
 **Programming control units and I/O in embedded systems.**
+
+## 📚 **Teaching Staff**
+Professor Ricardo Correia
+
+Professor João Aguiar
+
+Professor Rui Alves
+
+## ⚠️ **Disclaimer**
+This is a university purpose project and may contain suboptimal practices or even errors.
+
+If you have any questions or suggestions, feel free to ask.
+
+This repository is public and it is intended for archival and educational purposes only.
