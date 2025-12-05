@@ -33,7 +33,7 @@ Professor João Aguiar
 Professor Rui Alves
 
 ## ⚠️ **Disclaimer**
-This is a university purpose project and may contain suboptimal practices or even errors.
+This is a university purpose repository and may contain suboptimal practices or even errors.
 
 If you have any questions or suggestions, feel free to ask.
 
